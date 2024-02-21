@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Flickr</string>
+    <string name="label_search">Search</string>
+    <string name="content_description_enter_search_term">Search images</string>
+    <string name="label_published_on">Published on: </string>
+    <string name="label_author">Author: </string>
+    <string name="label_tags">Tags: </string>
+    <string name="label_link">Link: </string>
+    <string name="label_image_size">Image Size: </string>
+    <string name="navigate_back">Back</string>
+    <string name="share_image">Share image</string>
+    <string name="label_image_details">Image Details</string>
+
+    <string name="error_failed_to_load_images">Failed to load images</string>
+</resources>
