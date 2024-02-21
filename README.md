@@ -39,3 +39,5 @@ The application follows the MVVM (Model-View-ViewModel) architecture pattern:
 
 Contributions to the project are welcome. If you find any bugs or have suggestions for improvements, please open an issue or submit a pull request.
 
+Download the debug APK directly from [here](https://drive.google.com/file/d/1uavD4U_MsFQ08mE9ACGUGRmKbAK7LHXR/view?usp=drive_link).
+
